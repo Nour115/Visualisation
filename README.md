@@ -27,9 +27,15 @@ Below are the resulting visualizations:
 
 1. Visualization 1: Baby Name Evolution Over Time
 
+![Alt Text](images/Visualisation1.png)
+
 2. Visualisation 2 : Regional Distribution of Baby Names in France
 
+![Alt Text](images/Visualisation2.png)
+
 3. Visualisation 3 : Popularity of Baby Names in France by Gender
+
+![Alt Text](images/Visualisation3.png)
 
 
 ## Author 
