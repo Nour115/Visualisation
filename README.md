@@ -21,7 +21,7 @@ To do this project, I used Python and created the visualizations with Altair.
 In this repository, you'll find two Jupyter notebooks that generates the three visualizations :
 
 - **Chloropleth maps in Altair.ipynb** is the initial implementation.
-- is the final notebook with the refined implementation that should be run.
+- **Baby_names_final.ipynb** is the final notebook with the refined implementation that should be run.
 
 Below are the resulting visualizations:
 
